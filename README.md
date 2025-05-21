@@ -4,12 +4,10 @@
 
 If you do not agree with 5 of these, please leave (joke):
 1. C is the best language
-2. Zig is the best upcoming language
-3. Rust is blazingly fast
-4. Open Source software is superior
-5. Linux is the best operating system (or something Linux adjacent)
-6. NeoVim is the best text editor (or something adjacent)
-8. We must seize the means of production
+2. Open Source software is superior
+3. Linux is the best operating system (or something Linux adjacent)
+4. NeoVim is the best text editor (or something adjacent)
+5. We must seize the means of production
 
 ### What do I do??? (real question)
 - My best language is C, though I started with Python, and I'm fairly proficient in Zig...
@@ -33,9 +31,6 @@ and even very W.I.P. ones like Ladybird and Servo.
 - Reading manga (What am I a weeb?)
 - Writing fanfiction (If you recognize the quote at the top, yes, I write JoJo fanfic (ao3 account same username))
 - I dabble in Japanese...
-- And uh yeah, that's it
-- I don't know why I'm typing more of these
-- How has your day been?
 <!--
 **MuckyWaffles/MuckyWaffles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
