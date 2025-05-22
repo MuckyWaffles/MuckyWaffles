@@ -2,7 +2,7 @@
 
 >"Why is Heart Attack taking so long?" - Kira Yoshikage, and me sometimes
 
-If you do not agree with 5 of these, please leave (joke):
+If you do not agree with at least 5 of these, please leave (joke):
 1. C is the best language
 2. Open Source software is superior
 3. Linux is the best operating system (or something Linux adjacent)
