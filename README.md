@@ -2,7 +2,7 @@
 
 >"Why is Heart Attack taking so long?" - Kira Yoshikage, and me sometimes
 
-If you do not agree with at least 5 of these, please leave (joke):
+If you do not agree with at least 3 of these, please leave (joke):
 1. C is the best language
 2. Open Source software is superior
 3. Linux is the best operating system (or something Linux adjacent)
@@ -13,10 +13,10 @@ If you do not agree with at least 5 of these, please leave (joke):
 - I'm learning Zig because I believe in it's capacity as the true successor to C
 (Unlike that C++ *garbage*)
 - I should probably start learning Rust again
-- I'm working on a platformer, written in pure C -- okay well I wrote a C++ wrapper for the DearImGui library -- but mostly C. It uses the SDL3 library, and OpenGL3 for graphics.
+- I'm working on a platformer, written in pure C -- well, I wrote a C++ wrapper for the DearImGui library -- but mostly C. It uses SDL3 and OpenGL3 for graphics.
 - I waste a third of the time on my computer customizing it. (That's slightly hyperbole).
 - On my main PC I use Arch Linux with Hyprland, and on my Thinkpad T420, I use Arch with Swaywm.
-- I enjoy trying out funky browsers, ranging from terminal browsers like lynx or w3m to mostly normal browsers like Zen, Qutebrowser, Palemoon, Librewolf, and even very W.I.P. ones like Ladybird and Servo.
+- I enjoy trying out funky browsers, from terminal browsers like lynx or w3m to normal(ish) browsers like Zen, Qutebrowser, Palemoon, Librewolf, and even W.I.P. ones like Ladybird and Servo.
 
 ### REAL LIFE HOBBIES?
 - Playing guitar, occasionally writing music
